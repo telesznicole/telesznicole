@@ -1,8 +1,8 @@
 ## Hi, I’m @telesznicole!
-My name is Nicole Telesz, and I'm a full-time student in the Honors Program at the University of Florida pursuing a major in Computer Science through the College of Engineering and a minor in the Digital Arts and Sciences through the College of the Arts.
-- I’m interested in game development, computer graphics and visualization, and human-computer interactions.
-- I’m currently learning about information and database systems, testing continuous delivery, human-computer interactions, and game content production.
-- I know Java, C++ (my favorite), Javascript, and some Typescript, CSS, HTML, and ARMv8.
+My name is Nicole Telesz. I graduated from the University of Florida with a B.S. in Computer Science through the College of Engineering and a minor in the Digital Arts and Sciences though the College of the Arts. I am now attending the Savannah College of Art and Design persuing a M.A. in Interactive Design.
+- I’m interested in UX/UD, human-computer interaction, and game development.
+- During my time at UF, I started a univeristy-approved User Experience Design club, participated in intramural soccer, and was part of the Honors Program.
+- My work can be seen at nicoletelesz.com
 
 My current GitHub stats are:
 
