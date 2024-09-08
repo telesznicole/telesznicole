@@ -1,8 +1,8 @@
 ## Hi, I’m @telesznicole!
-My name is Nicole Telesz. I graduated from the University of Florida with a B.S. in Computer Science through the College of Engineering and a minor in the Digital Arts and Sciences though the College of the Arts. I am now attending the Savannah College of Art and Design persuing a M.A. in Interactive Design.
-- I’m interested in UX/UD, human-computer interaction, and game development.
+My name is Nicole Telesz. I graduated from the University of Florida with a B.S. in Computer Science through the College of Engineering and a minor in the Digital Arts and Sciences though the College of the Arts. I currently attend the Savannah College of Art and Design, persuing an M.A. in Interactive Design.
+- I’m interested in humanized digital experiences, intuitive mobile and web applications, and beautiful, cohesive design.
 - During my time at UF, I started a univeristy-approved User Experience Design club, participated in intramural soccer, and was part of the Honors Program.
-- My work can be seen at [my personal website](www.nicoletelesz.com)
+- My work can be seen on (my personal website)[https://www.nicoletelesz.com/].
 
 My current GitHub stats are:
 
